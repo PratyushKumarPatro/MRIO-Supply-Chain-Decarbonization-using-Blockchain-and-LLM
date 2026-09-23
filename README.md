@@ -2,7 +2,7 @@
 
 AURORA is a research-grade strategic carbon intelligence and governance framework for low-carbon supply chains. It integrates environmentally extended multi-regional input-output (EE-MRIO) analysis, structural path analysis (SPA), structural decomposition analysis (SDA), network leverage analysis, CRITIC-weighted Dependency Leverage Index (DLI), regional opportunity assessment, evidence-bound intervention development, blockchain-enabled governance, and local LLM decision support.
 
-This repository contains the validated AURORA v5.0.17 source and deployment package developed for the accompanying research study.
+This repository contains the validated AURORA source and deployment package developed for the accompanying research study.
 
 > **Research prototype:** This software is intended for reproducible research, methodological evaluation, and controlled local demonstrations. It is not a production blockchain, identity-management, or credential-management system.
 
