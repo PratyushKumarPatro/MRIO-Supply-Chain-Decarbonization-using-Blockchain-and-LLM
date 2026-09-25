@@ -361,6 +361,3 @@ Immutable evaluated release:
 
 <https://github.com/PratyushKumarPatro/MRIO-Supply-Chain-Decarbonization-using-Blockchain-and-LLM/releases/tag/v5.0.17>
 
-Suggested paper wording:
-
-> The AURORA framework source code, deployment instructions, validation tests, and immutable v5.0.17 research release are available at https://github.com/PratyushKumarPatro/MRIO-Supply-Chain-Decarbonization-using-Blockchain-and-LLM.
